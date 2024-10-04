@@ -1,16 +1,25 @@
-## Hi there 👋
-
+## Olá Pessoal! 👋
+Meu nome é Maria Giulia, sou uma estudante de desenvolvimento web que sonha em fazer parte de uma grande empresa.
 <!--
 **giuliacaxi/giuliacaxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🙋‍♀️ Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou atualmente trabalhando como estagiária de informática na Assistência Social
+- Curso Licenciatura em Computação no IFRJ - Campus Pinheiral
+
+## 🧶 Minhas Linguagens de Programação/ Estudos
+
+- #C
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Java
+
+## 🌱 Estou aprendendo atualmente...
+
+- Desenvolvimento Web FullStack
+- Aplicações em React
+
+
