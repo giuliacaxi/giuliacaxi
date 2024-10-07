@@ -1,7 +1,5 @@
 ## Olá Pessoal! 👋
 Meu nome é Maria Giulia, sou uma estudante de desenvolvimento web que sonha em fazer parte de uma grande empresa.
-<!--
-**giuliacaxi/giuliacaxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## 🙋‍♀️ Sobre mim
 
